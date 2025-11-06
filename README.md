@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yiğit Kandemir</h1>
 <h3 align="center">A passionate computer engineering student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kandemirryigit&label=Profile%20views&color=0e75b6&style=flat" alt="kandemirryigit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kandemirryigit" alt="kandemirryigit" /></a> </p>
+- 🔭 I’m currently working on **Cyber security**
 
-- 🔭 I’m currently working on **python**
+- 🌱 I’m currently learning **C,Assembly**
 
-- 🌱 I’m currently learning **python,HTML,CSS**
-
-- 💬 Ask me about **Python,HTML,CSS**
+- 💬 Ask me about **Python,c,Assembly**
 
 - 📫 How to reach me **kandemirryigit@gmail.com**
 
