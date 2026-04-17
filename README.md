@@ -26,11 +26,14 @@
 ```python
 class Yigit:
     def __init__(self):
-        self.name     = "Yiğit Kandemir"
-        self.role     = ["Backend Developer", "Penetration Tester"]
-        self.focus    = ["Web Security", "Ethical Hacking", "Bug Bounty"]
-        self.os       = "Kali Linux"  # daily driver ⚔️
-        self.mindset  = "Break it → Understand it → Fix it"
+        self.name       = "Yiğit Kandemir"
+        self.University = "Trakya University"
+        self.department = "Computer Engineering"
+        self.English    = "B2 Level"
+        self.role       = ["Backend Developer", "Penetration Tester"]
+        self.focus      = ["Ethical Hacking","Web Security","Backend Development"]
+        self.os         = "Kali Linux"  # daily driver ⚔️
+        self.mindset    = "Break it → Understand it → Fix it"
 ```
 
 ---
@@ -54,25 +57,15 @@ class Yigit:
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
 
 ```
-├── nmap          →  Port tarama & servis keşfi
-├── sqlmap        →  SQL Injection otomasyonu
-├── ffuf          →  Web fuzzing & directory brute-force
-├── gobuster      →  DNS & dizin keşfi
-├── hashcat       →  GPU destekli şifre kırma
-├── john          →  Hash cracking
-├── netcat        →  Ağ bağlantı & dinleme
-└── Burp Suite    →  Web uygulama güvenliği
+├── nmap          →  Port scanning & service discovery
+├── sqlmap        →  Automated SQL injection testing
+├── ffuf          →  Web fuzzing & directory brute-forcing
+├── gobuster      →  DNS & directory enumeration
+├── hashcat       →  GPU-accelerated password cracking
+├── john          →  Password/hash cracking
+├── netcat        →  Network connection & port listening
+└── hydra         →  Login brute-force
 ```
-
----
-
-## 🎯 Odak Alanlarım
-
-| 🕷️ Web Security | 🔍 Penetration Testing | 🐛 Bug Bounty |
-|:-:|:-:|:-:|
-| OWASP Top 10 | Web & Network Pentest | Find & Report |
-| XSS · SQLi · IDOR | Reconnaissance | Responsible Disclosure |
-| SSRF · CSRF | Exploitation | Write-up Yazma |
 
 ---
 
