@@ -48,6 +48,7 @@ class Yigit:
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ---
 
 ## 🔐 I am familiar with those cyber security tools
