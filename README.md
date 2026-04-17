@@ -9,8 +9,8 @@
     ╚═╝   ╚═╝ ╚═════╝ ╚═╝   ╚═╝  
 ```
 
-### Hey, ben Yiğit 👋
-**Backend Developer · Penetration Tester · Bug Hunter**
+### Hey, I'm Yiğit Kandemir 👋
+**A Computer Engineering Student**
 
 [![Mail](https://img.shields.io/badge/-kandemirryigit@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kandemirryigit@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kandemirryigit)
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍💻 Hakkımda
+## 🧑‍💻 About me
 
 ```python
 class Yigit:
@@ -38,7 +38,7 @@ class Yigit:
 
 ---
 
-## 🛠️ Geliştirme Stack'i
+## 🛠️ I know using those technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -49,7 +49,7 @@ class Yigit:
 
 ---
 
-## 🔐 Siber Güvenlik Araçları
+## 🔐 I know using those cyber security tools
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
@@ -85,7 +85,7 @@ class Yigit:
 
 ## 📝 Medium
 
-> Öğrendiklerimi yazıyorum — teknik yazılar, CTF write-up'ları ve güvenlik araştırmaları.
+>I share my CTF write-ups and tech research here.
 
 **→ [medium.com/@kandemirryigit](https://medium.com/@kandemirryigit)**
 
